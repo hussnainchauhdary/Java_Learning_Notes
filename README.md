@@ -15,7 +15,9 @@ Each topic is placed inside a separate folder, like:
 - `01_Introduction` – Java basics, structure, print statements
 - `02_DataTypes` – All 8 primitive types with notes and examples
 - `03_Operators` – Arithmetic, Logical, Unary, Assignment, etc.
-- `04_ControlStatements` – `if`, `else`, `nested if`, `switch`, ternary
+- 04_Methods in Jave and overloaded methods.
+- `05_ControlStatements` – `if`, `else`, `nested if`, `switch`, ternary
+- 06_ Loops : for-loop & While-loop & do-While-loop.
 - More coming soon...
 
 ---
